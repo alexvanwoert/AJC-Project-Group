@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="VanWoert_Final_Projecct_Schema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<xml>
+    <titlePage>
+        <title>CHRISTMAS BELLS</title>
+        <desc>A One Act Play for Children</desc>
+        <prep>by</prep>
+        <author>ANNA J. COOPER</author>
+        <charList>
+            <desc>DRAMATIS PERSONAE</desc>
+            <spk>HANNAH</spk>, aged eleven, “the little Mother,” who has the care of her two
+            sisters, while the Mother works by the day, away from home. The Father is a soldier,
+            across the sea. <spk>NANNETTE</spk>, aged eight <spk>ANNIKINS</spk>, aged four <spk>THE
+                THREE KINGS</spk>,— <spk>GASPARD</spk>, a European, <spk>MELCHOIR</spk>, an Asiatic,
+                <spk>BALTHAZAR</spk>, an African. <spk>CHORUS OF ANGELS</spk>
+            <spk>CHORUS OF SHEPHERDS</spk>
+            <spk>SUNSHINE CLUB OF THE COMMUNITY SERVICE</spk>. Soldiers. Red <spk>CROSS NURSES</spk>
+        </charList>
+    </titlePage>
+    <scene n="1">
+        <sceneNumb>SCENE I</sceneNumb>
+        <sd>Before the curtain rises, Christinas chimes arc heard, playing distinctly,—“Christians,
+            awake! Salute the happy morn, Whereon the Savior of mankind was born!* At the close of
+            the chimes a pause of jo seconds absolute silence; after which there sounds shrill and
+            clear a single stroke of a bell. The curtain rises, disclosing a room of a humble family
+            of three children. “ The little Mother" is busy about the evening meal; Nannette is
+            setting the table; Annikins, on the floor, cuts pictures for paper dolls.</sd>
+        <dial speak="NANNETTE"><spk>NANNETTE</spk>. What are the bells ringing for? </dial><dial
+            speak="HANNAH"><spk>HANNAH</spk>. Why, don’t you know dear? They're ringing for the
+            Christmas Child—for His birthday. This is Christmas Eve!</dial>
+        <dial speak="ANNIKINS"><spk>ANNIKINS</spk>. Is Christ Child coming here? </dial><dial
+            speak="HANNAH"><spk>HANNAH</spk>. <sd>(Thoughtfully)</sd> Why yes, Annikins. He will
+            come to us if we try to be kind and good. </dial><dial speak="NANNETTE"
+                ><spk>NANNETTE</spk>. Sister, can’t we possibly have a Christmas tree this year ?
+            </dial><dial speak="HANNAH"><spk>HANNAH</spk>. I’m afraid not, deary. But we’ll try to
+            be happy just the same. We’ll play “make believe’’ and make each other wonderful
+            presents. It's lots of fun! And write letters to Daddy, and we’ll ask the Christ Child
+            to bring Daddy safe home to us, and then mother will not have to work so hard down town.
+            And we’ll ask the Christ Child to bring us sweet Peace and Good Will. Because lie is the
+            Prince of Peace, and that’s what He is coming for. And then I s'pose we ought to pray
+            for Democracy, ’cause that’s what Daddy is fighting for. </dial><pn>2</pn>
+        <dial speak="NANNETTE"><spk>NANNETTE</spk>. What is Democracy? </dial><dial speak="HANNAH"
+                ><spk>HANNAH</spk>. I’m not sure I know, little sister. It’s kind of hard to
+            understand. But it must be what the Christ Child wants every where in the world—for it
+            means every body will be good and kind to every body and there'll not be any poor people
+            who can’t get enough to eat, nor any unkind people who scorn and hate. Just all the
+            world will love each other like you and I and Annikins love one another. Every body will
+            be helping to make the world good and pleasant for every body else and so the Christ
+            Child will come back to us again and He will be our Big Brother and all the people will
+            be brothers ’cause you see they will all be His brothers. Come now Annikins, put away
+            your paper dollies. Supper is ready. <sd>(She smoothes the child's hair, examines hands
+                and face to see that they arc clean, and lifts her into a high-chair at the table.
+                The others take their places and, with bowed heads and folded hands, sing the
+                grace)</sd> — God is great and God is good, And we thank thee for this food; By thy
+            hand must we be fed, Give us, Lord, our daily bread. Amen. </dial><dial speak="ANNIKINS"
+                ><spk>ANNIKINS</spk>. Pass the sugar! <sd>(correcting herself)</sd> Excuse me
+            sister, please pass the sugar! </dial><dial speak="HANNAH"><spk>HANNAH</spk>. Oo-h
+            Annikins! [Don't take quite so much, love! Uncle Sam says we can't have any more sugar
+            till next month! </dial><dial speak="ANNIKINS"><spk>ANNIKINS</spk>. <sd>(Confidentially
+                to her big sister)</sd> you tell the Christmas Child / want some sugar,—hear?
+                <sd>(Carol singers are heard outside)</sd>
+        </dial><dial speak="HANNAH"><spk>HANNAH</spk>. Hush, child, listen. It’s the carol singers!
+            </dial><dial speak="CAROL SINGERS"><spk>CAROL SINGERS</spk>. Christmas where children
+            are hopeful and gay, Christmas where old men are patient and gray, Christmas with peace,
+            like a dove in its flight, Over brave men in the thick of the fight. Everywhere,
+            everywhere, Christmas tonight! Immediately after the carols the Sunshine Club come
+            bursting in, covered with snow. The boys tc-car muffllers. Some have ice-skates hung
+            over their shoulders. Two of the boys lug in a tree all ready to set up. The girls have
+            their arms full of trinkets for the tree and presents for the children. They are
+            bubbling over with spirits and gayly shouting,—“Merry Christmas Hannah! Merry Christmas
+            Nanncttc! Hello, Annikins! Merry Christmas!" Their leader gives the child a bear-hug,
+            and presents her with a wonderful doll, almost as big as the four-year-old herself. Nan
+            net te gets a beautiful red dress and a string of beads. The children clap their hands
+            in glee. While dressing the tree they sing. There’s a wonderful tree a wonderful tree
+            The happy children rejoice to see. Spreading its branches year by year It comes from the
+            forest to flourish here. Oh this beautiful tree with its branches wide Is always
+            blooming at Christmas T ide; And a voice is telling its boughs among Of the Shepherds’
+            watch and the Angels’ song; Of a holv Babe in the manger low— The beautiful story of
+            long ago— When a radiant star threw its beams so wide To herald the earliest Christmas
+            Tide. <sd>(Joining hands, and singing, they dance around the tree)</sd>
+        </dial><pn>4</pn>
+        <dial speak="HANNAH"><spk>HANNAH</spk>. <sd>(A little shyly at first)</sd> Oh thank you!
+            Thank you so much girls. W hat a beautiful tree! Oh, we are so happy—I had no idea we
+            would have a tree! </dial><dial speak="SUNSHINE GIRL"><spk>1st SUNSHINE GIRL</spk>.
+                <sd>(Hanging a small doll on the tree)</sd> Here is a baby-doll for Annikins; skates
+            for Xannette. And here, little Mother, is a gay peasant-kerchief and a picture storybook
+            for you. I know you’ll read the stories to the rest. Hannah never keeps anything all for
+            herself! </dial><dial speak="HANNAH"><spk>HANNAH</spk>. <sd>(Somewhat embarrassed)</sd>
+            Oh girls, I—I can’t tell you how much—Oh, I mean you are so good and kind—I just don’t
+            know how to thank you. </dial><dial speak="SUNSHINE GIRL"><spk>1st SUNSHINE GIRL</spk>.
+            Oh don’t thank us at all, just thank the Christ Child! </dial><dial
+            speak="SUNSHINE GIRL"><spk>2nd SUNSHINE GIRL</spk>. All who love the Christ Child are
+            trying to make little children happy tonight, don't you know? We don’t want a single
+            child to be forgotten. His love will warm and cheer the loneliest child on earth.
+            </dial><dial speak="HANNAH"><spk>HANNAH</spk>. <sd>(Thoughtfully)</sd> Yes. All for the
+            Christ Child who was born tonight. To love Him is to love all little children.
+            </dial><dial speak="SUNSHINE GIRL"><spk>SUNSHINE GIRLS</spk>. <sd>(Putting on their
+                wraps, waving Merry Christmas to all; shaking hands affectionately with
+            Hannah)</sd>. Good night everybody! Be good children! Good night,—good night!</dial>
+        <dial speak="THE CHILDREN"><spk>THE CHILDREN</spk>. Good night! Merry Christmas!
+            </dial><dial speak="ANNIKINS"><spk>ANNIKINS</spk>. <sd>(Piping up)</sd> Au revoir-au
+            revoir! <sd>(Exit S.S. Club laughing and throwing kisses. A pause)</sd></dial>
+        <dial speak="NANNETTE"><spk>NANNETTE</spk>. What a wonderful tree! <sd>(They examine the
+                presents)</sd></dial>
+        <dial speak="HANNAH"><spk>HANNAH</spk>. <sd>(Bustling to hide her emotion)</sd> Come now
+                <sd>(takes Annikins by the hand)</sd>. The Christ Child has sent us perfectly lovely
+            friends and I am so glad you have your Christmas tree after a ll! Kneel down children.
+            Annikins, put your hands together. <sd>(They all kneel and repeat a prayer)</sd> Oh holy
+            Child of Bethlehem! Descend to us we pray; Cast out our sin and enter in. Be born in us
+            today. We hear the Christmas angels The great glad tidings tell; Oh, come to us—Abide
+            with us, Our Lord, Emanuel. <sd>(During the prayer the stage is gradually darkened, so
+                that the children are no longer visible)</sd>
+        </dial></scene>
+    <scene n="2">
+        <sceneNumb>SCENE II</sceneNumb>
+        <desc>The Children's Dream City.</desc>
+        <dial speak="CHRISTMAS ANNODOMINI"><spk>CHRISTMAS ANNODOMINI</spk>. Two strokes of a bell.
+            On the screen a still life night scene of the City of Bethlehem. Shepherds with flocks
+            in the middle distance chorus by radio transcription: </dial><dial speak="HYMN"
+                ><spk>HYMN</spk>. <desc>(Chorus or transcription)</desc> O little town of Bethlehem,
+            How still we see thee lie! Above thy deep and dreamless sleep The silent stars go by;
+            Yet in thy dark streets shineth The everlasting L ight; The hopes and fears of all the
+            years Are met in thee tonight. <pn>6</pn> For Christ is born of Mary, And gathered all
+            above While mortals sleep, the angels keep Their watch of wondering love. O morning
+            stars together Proclaim the holy birth, And praises sing to God the King And peace to
+            men on earth! How silently, how silently The wondrous gift is given! So God imparts to
+            human hearts The blessings of His heaven. No ear may hear his coming, But, in this world
+            of sin, Where meek souls will receive Him, still The dear Christ enters in.</dial><dial
+            speak="HYMN"><spk> HYMN</spk>. <desc>(Chorus or transcription)</desc> While shepherds
+            watched their flock by night, All seated on the ground, The angel of the Lord came down,
+            And glory shone around. “Fear not,” he said, for mighty dread Had seized their troubled
+            mind; “Glad tidings of great joy I bring To you and all mankind.” <sd>(A strong white
+                light is thrown on the stage. A shining Angel descends and sings)</sd>
+        </dial><dial speak="ANGEL"><spk>ANGEL</spk>. “From Heaven above to earth I come To bring
+            glad news to every home; Glad tidings of great joy I bring Whereof I now do tell and
+            sing. To you tonight is born a child <pn>7</pn> Of Mary chosen Mother mildThis little
+            child of lowly birth Shall be the Joy of all the Earth. <sd>(There appears suddenly from
+                all sides a throng of angels who sing in chorus)</sd>
+        </dial><dial speak="ANGELS"><spk>ANGELS</spk>. All glory be to God on high. And to the earth
+            be peace. Good will henceforth from heaven to men Begin and never cease. For
+            </dial><dial speak="CHORUS OF ANGELS"><spk>CHORUS OF ANGELS</spk>, “Glory to God:,y from
+            Handel's Messiah may be used if preferred. Angels disappear suddenly <sd>(effected by
+                manipulation of lights)</sd>. Enter, left back, Shepherds wearing loose tunics,
+            carrying crooks, and singing:</dial>
+        <dial speak="SHEPHERDS"><spk>SHEPHERDS</spk>. Hark ! the herald angels sing Glory to the
+            new-born King; Peace on earth and mercy mild, God and sinners reconciled! Joyful, all ye
+            nations, rise, Join the triumph of the skies; With the angelic host proclaim, Christ is
+            born in Bethlehem! <sd>(Exeunt Shepherds right. The stage is dark. There appears, dimly
+                at first, a star just visible in the darkness. As the star grows brighter the three
+                Kings, L, back, pass to the front, R, singing)</sd>: </dial><dial speak="THE KINGS"
+                ><spk>THE KINGS</spk>. We three Kings of Orient are, <pn>8</pn> Bearing gifts we
+            traverse afar, Field and fountain, Moor and mountain, Following yonder Star.
+                <desc>(Refrain)</desc> O Star of wonder—star of night— Star with royal beauty
+            bright, Westward leading, still proceeding, Guide us to thy perfect light. </dial><dial
+            speak="GASPARD"><spk>GASPARD</spk>. Born a King on Bethlehem’s plain, Gold I bring to
+            crown Him again, King forever, ceasing never Over us all to reign.</dial>
+        <dial speak="MELCHIOR"><spk>MELCHIOR</spk>. Frankincense to offer have I— Incense owns a
+            Deity nigh. Prayer and praising, all men raising, Worship Him—God on high. </dial><dial
+            speak="BALTHAZAR"><spk>BALTHAZAR</spk>. Myrrh is mine; its bitter perfume Breathes a
+            life of gathering gloom; Sorrowing, sighing, bleeding, dying, Sealed in the stone-cold
+            tomb. <desc>(Refrain)</desc>
+        </dial><dial speak="ANNIKINS"><spk>ANNIKINS</spk>. Glorious now behold Him arise, King and
+            God and Sacrifice. Alleluia, alleluia! Earth to heaven replies. <pn>9</pn>
+            <desc>(Refrain)</desc>
+            <sd>(As the Kings leave, the stage is again dark. The star alone is seen, in the middle
+                distance. Gradually one spot begins to glow till, in the full radiance, is seen the
+                group around the manger cradle <desc>(based on Correggio's Holy Night)</desc>. While
+                the Chorus sings softly, the Shepherds enter and adore; later the Kings)</sd>
+        </dial><dial speak="ANGELS"><spk>ANGELS</spk>. Holy night, Silent Night! All is calm all is
+            bright Round yon Virgin Mother and Child. Holy infant, so tender and mild. Sleep in
+            heavenly peace! Silent Night, Holy Night, Shepherds quake at the sight, Glories stream
+            from Heaven afar. Heavenly hosts sing Alleluia, Christ the Savior is born. Silent Night,
+            Holy Night, Son of God, love’s pure light Radiant beams from thy holy face. With the
+            dawn of redeeming grace, Jesus, Lord, at thy birth. </dial><dial speak="SECOND CHORUS"
+                ><spk>SECOND CHORUS</spk>. Sleep, Holy Babe, upon thy Mother’s breast; Great Lord of
+            earth and sea and sky! How sweet it is to see thee lie In such a place of rest! Sleep
+            holy Babe, thine angels watch around, * All bending low with folded wings, Before
+            th’incarnate King of Kings. <sd>(The scene fades in darkness. A long silence. Three
+                strokes of a bell)</sd>
+        </dial><pn>10</pn>
+    </scene>
+    <scene n="3">
+        <sceneNumb>SCENE III</sceneNumb>
+        <desc>1912. CHRISTMAS ON THE BATTLEFIELDS</desc>
+        <sd>(Where now arc “Peace on Earth, Good Will to Men?” In a ghastly gleam of red, soldiers
+            in helmets, gas masks, marching, marching, marching, falling, dying. Red Cross Nurses
+            minister to the wounded)</sd> SONG OF THE SOLDIERS. <desc>(The Rose of No Man’s Land)
+            There’s a rose that grows on No Man’s Land, And it's wonderful to see; Tho’dimmed with
+            tears It will live for years In my garden of memory. It’s the one red rose the soldier
+            knows, It’s the work of the Master’s hand; Mid War’s great curse Stands the Red Cross
+            Nurse: She’s the Rose of No Man’s Land.</desc>
+        <dial speak="THE NURSES"><spk>THE NURSES</spk>. <sd>(Holding their arms aloft)</sd> Lord God
+            of Love, let us have peace! From W ar’s vain sacrifice Give us release. Grant Peace the
+            victories War cannot know. God of the Ages! Hast Thou not seen Thy fields and meadows
+            green Red with the blood of men where W ar hath been? Dost Thou not know War's fearful
+            endless roll— The countless graves of those who paid the toll ? Teach us to build. Oh
+            gentle Lord, not to destroy. Forge these bleeding swords into plowshares, II thy fields
+            to increase: Lord of the lives to be—Let us have peace! <sd>(They kneel)</sd> God of the
+            fatherless, we pray to Thee, Father of all of us. hear Thou our plea; Peace and Good
+            Will to men are willed by Thee— Lord God of Love, Let us have Peace! </dial><dial
+            speak="QUARTETTE"><spk>QUARTETTE</spk>. <sd>(Softly)</sd>. Peace, perfect peace, in this
+            dark world of sin? The blood of Jesus whispers Peace within. Peace, perfect peace, with
+            sorrows surging; round? On Jesus’ bosom naught but calm is found. Peace, perfect peace,
+            with loved ones far away? In Jesus’ keeping we are safe, and they. Peace, perfect peace,
+            our future all unknown? Jesus we know and He is oil the throne. Peace, perfect peace,
+            death shadowing us and ours? Jesus has vanquished death and all its powers. Once more on
+            the darkened stage there appears the shining way of the Angel, who spreads protecting
+            zciitgs over the sisters <sd>(sleeping center)</sd>. Nurses still kneeling L, Soldiers
+            R. Angel, clczvted center, over children. Angel sings with deep significance and
+            tenderness: He shall feed His flock like a shepherd: He shall gather the lambs with his
+            arm, and carry them in His bosom, and shall gently lead those that are with young. After
+            the Angel's song of promise, Nurses and Soldiers, inspired with hope and courage, burst
+            forth in a triumphal strain. </dial><pn>12</pn>
+        <dial speak="CHORUS"><spk>CHORUS</spk>. Ring out, wild bells, to the wild sky, The flying
+            cloud, the frosty light; The year is dying in the night; Ring out, wild bells, and let
+            him die. Ring out the old, ring in the new, Ring happy bells, across the snow; The year
+            is going, let him go ; Ring out the false, ring in the true. Ring out the grief that
+            saps the mind, For those that here we see no more; Ring out the feud of rich and poor,
+            Ring in redress to all mankind. Ring out the want, the care, the sin, The faithless
+            coldness of the times; Ring out, ring out my mournful rhymes, But ring the fuller
+            minstrel in. Ring out the shapes of foul disease, Ring out the narrowing lust of gold:
+            Ring out the thousand wars of o ld : Ring in the thousand years of peace! Ring in the
+            valiant man and free, The larger heart, the kindlier hand; Ring out the darkness of the
+            land, Ring in the Christ that is to be ! The Christmas Chimes, which have been playing
+            throughout the hymn, as if in the distance, now peal forth in a loud and joyful clamor.
+            After which darkness, and again a silence.</dial>
+        <pn>13</pn>
+    </scene>
+    <scene n="4">
+        <sceneNumb>SCENE IV (as in Scene I)</sceneNumb>
+        <sd>The children are discovered asleep at their prayer.</sd><dial speak="HANNAH">
+            <spk>HANNAH</spk> (Arousing herself): Twelve o’clock! Dear me! Almost time for Mother to
+            come home, and Annikins hasn’t been put to bed! W hat will Mother say! <sd>(Staring in
+                front of her as if dazed)</sd> But I have had a most wonderful dream! I thought I
+                saw—<sd>(rubs her eyes as if trying to make sure she’s awake. Turns to waken the
+                other children)</sd> Annikins! Nannettc! wake up ! Wake up, Dear. We ought to have
+            been in bed long ago!</dial>
+        <dial speak="ANNIKINS"><spk>ANNIKINS</spk>. <sd>(rubbing her eyes and looking around—points
+                center)</sd>: Christ Child! He was wight dere—’cause I seen Him!
+            <spk>NANNETTE</spk>: I dreamed I saw Daddy marching and the Angel was bringing him home
+            to us. Hannah gives her a startled, half incredulous look.</dial>
+        <dial speak="NANNETTE"><spk>NANNETTE</spk>, <sd>(Arguing the point)</sd>: Well, didn’t you
+            say that the Christ Child would come to us if we tried to be kind and good? And didn’t
+            He say He loved little children and wanted them to come to Him? And didn’t we ask Him to
+            come to us just a little while ago?</dial>
+        <dial speak="HANNAH"><spk>HANNAH</spk>, <sd>(slozvly and dreamily</sd>). Yes, Dear—and may
+            be— <sd>(Mother enters)</sd> Oh Mama! <sd>(Conscience stricken as she remembers her
+                charges)</sd>. <spk>NANNETTE</spk>: Oh Momsie! We've got a Christmas tree! <sd>(The
+                Mother soothes her excited children and takes Annikins in her arms.)</sd>
+        </dial><pn>14</pn>
+        <dial speak="ANNIKINS"><spk>ANNIKINS</spk>: An’—An’ Muvver! Christ Child Come! He brought me
+            some sugar! </dial>
+        <sd type="italics">The tree is mysteriously alight. It glotus marvelously as the curtain
+            slozuly descends.</sd>
+        <desc type="bold">TABLEAU</desc>
+        <pn>35</pn>
+    </scene>
+</xml>
