@@ -1,5 +1,13 @@
 start = xml
-xml = element xml {titlePage, scene+}
+xml = element xml {docCit, titlePage, scene+}
+
+docCit = element docCit {heading, subHeading, date, title, author, outerLink, reccCit, docAccessNote}
+heading = element heading {text}
+subHeading = element subHeading {text}
+date = element date {text}
+outerLink = element outerLink {text}
+reccCit = element reccCit {text}
+docAccessNote = element docAccessNote {text}
 
 titlePage = element titlePage {title, desc, prep, author, charList}
 title = element title {text}
