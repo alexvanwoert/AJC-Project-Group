@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../Schema/VanWoert_Final_Projecct_Schema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
+    <docCit>
+        <heading>Howard University Digital Howard @ Howard University</heading>
+        <subHeading>Plays and Programs Manuscripts by Anna Julia Cooper</subHeading>
+        <date>October 2017</date>
+        <title>Christmas Bells: A One Act Play For Children</title>
+        <author> By Anna Julia Cooper</author>
+        <outerLink>Follow this and additional works at: http://dh.howard.edu/ajc_plays</outerLink>
+        <reccCit>Recommended Citation "Christmas Bells: A One Act Play For Children By Anna Julia
+            Cooper" (2017). Plays and Programs . 1. http://dh.howard.edu/ajc_plays/1</reccCit>
+        <docAccessNote>This Book is brought to you for free and open access by the Manuscripts by
+            Anna Julia Cooper at Digital Howard @ Howard University. It has been accepted for
+            inclusion in Plays and Programs by an authorized administrator of Digital Howard @
+            Howard University. For more information, please contact
+            lopez.matthews@howard.edu.</docAccessNote>
+    </docCit>
     <titlePage>
         <title>CHRISTMAS BELLS</title>
         <desc>A One Act Play for Children</desc>
