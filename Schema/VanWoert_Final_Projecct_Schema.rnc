@@ -4,18 +4,23 @@ xml = element xml {titlePage, scene+}
 titlePage = element titlePage {title, desc, prep, author, charList}
 title = element title {text}
 desc = element desc {text, type*}
+#differentiate all desc with attributes
+
 prep = element prep {text}
 author = element author {text}
 charList = element charList {mixed{(desc | spk)*}}
 
 scene = element scene {mixed{(sceneNumb | spk | pn | desc | sd | dial)*}, n}
 n = attribute n {xsd:integer}
-sceneNumb = element sceneNumb {text}
+sceneNumb = element sceneNumb {mixed{type*}}
 spk = element spk {text}
 pn = element pn {xsd:integer}
 sd = element sd {mixed{(desc)*}, type*}
 dial = element dial {mixed{(spk | sd | pn | desc | lb | enjambment)*, speak*}}
 speak = attribute speak {'ANGEL' | 'CHRISTMAS ANNODOMINI' | 'THE CHILDREN' | 'HANNAH' | 'ANNIKINS' | 'NANNETTE' | 'CHORUS' | 'QUARTETTE' | 'THE NURSES' | 'SECOND CHORUS'| 'ANGELS' | 'BALTHAZAR' | 'MELCHIOR' | 'GASPARD' | 'SHEPHERDS' | 'THE KINGS' | 'CHORUS OF ANGELS' | 'HYMN' | 'CHRISTMAS ANNODIMI' | 'SUNSHINE GIRL' | 'CAROL SINGERS'}
-type = attribute type {'italics' | 'bold' | 'line'}
+type = attribute type {'italics' | 'bold' | 'line' | 'repeat' | 'reference' | 'setting' | 'songtitle' | 'scenetitle' | 'chorus' | 'dramaticpersons'}
 lb = element lb {text, type*, n*}
 enjambment = element enjambment {text}
+
+#Should CAROL SINGERS from line 67 to line 84 have </lb> elements?
+#Could we code the dialect from the speeches? For instance whereof in ANGEL at line 145.

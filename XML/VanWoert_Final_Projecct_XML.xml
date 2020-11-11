@@ -7,7 +7,7 @@
         <prep>by</prep>
         <author>ANNA J. COOPER</author>
         <charList>
-            <desc>DRAMATIS PERSONAE</desc>
+            <desc type="dramaticpersons">DRAMATIS PERSONAE</desc>
             <spk>HANNAH</spk>, aged eleven, “the little Mother,” who has the care of her two
             sisters, while the Mother works by the day, away from home. The Father is a soldier,
             across the sea. <spk>NANNETTE</spk>, aged eight <spk>ANNIKINS</spk>, aged four <spk>THE
@@ -78,7 +78,7 @@
             dressing the tree they sing. There’s a wonderful tree a wonderful tree The happy
             children rejoice to see. Spreading its branches year by year It comes from the forest to
             flourish here. Oh this beautiful tree with its branches wide Is always blooming at
-            Christmas T ide; And a voice is telling its boughs among Of the Shepherds’ watch and the
+            Christmas Tide; And a voice is telling its boughs among Of the Shepherds’ watch and the
             Angels’ song; Of a holv Babe in the manger low— The beautiful story of long ago— When a
             radiant star threw its beams so wide To herald the earliest Christmas Tide. <sd>(Joining
                 hands, and singing, they dance around the tree)</sd>
@@ -121,13 +121,13 @@
     </scene>
     <scene n="2">
         <sceneNumb>SCENE II</sceneNumb>
-        <desc>The Children's Dream City.</desc>
+        <desc type="scenetitle">The Children's Dream City.</desc>
         <dial speak="CHRISTMAS ANNODOMINI"><spk>CHRISTMAS ANNODOMINI</spk>. Two strokes of a bell.
             On the screen a still life night scene of the City of Bethlehem. Shepherds with flocks
             in the middle distance chorus by radio transcription: </dial>
-        <dial speak="HYMN"><spk>HYMN</spk>. <desc>(Chorus or transcription)</desc> O little town of
+        <dial speak="HYMN"><spk>HYMN</spk>. <desc type="chorus">(Chorus or transcription)</desc> O little town of
             Bethlehem, How still we see thee lie! Above thy deep and dreamless sleep The silent
-            stars go by; Yet in thy dark streets shineth The everlasting L ight; The hopes and fears
+            stars go by; Yet in thy dark streets shineth The everlasting Light; The hopes and fears
             of all the years Are met in thee tonight. <pn>6</pn> For Christ is born of Mary, And
             gathered all above While mortals sleep, the angels keep Their watch of wondering love. O
             morning stars together Proclaim the holy birth, And praises sing to God the King And
@@ -135,7 +135,7 @@
             imparts to human hearts The blessings of His heaven. No ear may hear his coming, But, in
             this world of sin, Where meek souls will receive Him, still The dear Christ enters
             in.</dial>
-        <dial speak="HYMN"><spk> HYMN</spk>. <desc>(Chorus or transcription)</desc> While shepherds
+        <dial speak="HYMN"><spk> HYMN</spk>. <desc type="chorus">(Chorus or transcription)</desc> While shepherds
             watched their flock by night, All seated on the ground, The angel of the Lord came down,
             And glory shone around. “Fear not,” he said, for mighty dread Had seized their troubled
             mind; “Glad tidings of great joy I bring To you and all mankind.” <sd>(A strong white
@@ -161,7 +161,7 @@
                 Kings, L, back, pass to the front, R, singing)</sd>: </dial>
         <dial speak="THE KINGS"><spk>THE KINGS</spk>. We three Kings of Orient are, <pn>8</pn>
             Bearing gifts we traverse afar, Field and fountain, Moor and mountain, Following yonder
-            Star. <desc>(Refrain)</desc> O Star of wonder—star of night— Star with royal beauty
+            Star. <desc type="repeat">(Refrain)</desc> O Star of wonder—star of night— Star with royal beauty
             bright, Westward leading, still proceeding, Guide us to thy perfect light. </dial>
         <dial speak="GASPARD"><spk>GASPARD</spk>. Born a King on Bethlehem’s plain, Gold I bring to
             crown Him again, King forever, ceasing never Over us all to reign.</dial>
@@ -169,14 +169,14 @@
             Deity nigh. Prayer and praising, all men raising, Worship Him—God on high. </dial>
         <dial speak="BALTHAZAR"><spk>BALTHAZAR</spk>. Myrrh is mine; its bitter perfume Breathes a
             life of gathering gloom; Sorrowing, sighing, bleeding, dying, Sealed in the stone-cold
-            tomb. <desc>(Refrain)</desc>
+            tomb. <desc type="repeat">(Refrain)</desc>
         </dial>
         <dial speak="ANNIKINS"><spk>ANNIKINS</spk>. Glorious now behold Him arise, King and God and
             Sacrifice. Alleluia, alleluia! Earth to heaven replies. <pn>9</pn>
-            <desc>(Refrain)</desc>
+            <desc type="repeat">(Refrain)</desc>
             <sd>(As the Kings leave, the stage is again dark. The star alone is seen, in the middle
                 distance. Gradually one spot begins to glow till, in the full radiance, is seen the
-                group around the manger cradle <desc>(based on Correggio's Holy Night)</desc>. While
+                group around the manger cradle <desc type="reference">(based on Correggio's Holy Night)</desc>. While
                 the Chorus sings softly, the Shepherds enter and adore; later the Kings)</sd>
         </dial>
         <dial speak="ANGELS"><spk>ANGELS</spk>. Holy night, Silent Night! All is calm all is bright
@@ -195,13 +195,13 @@
     </scene>
     <scene n="3">
         <sceneNumb>SCENE III</sceneNumb>
-        <desc>1912. CHRISTMAS ON THE BATTLEFIELDS</desc>
+        <desc type="setting">1912. CHRISTMAS ON THE BATTLEFIELDS</desc>
         <sd>(Where now arc “Peace on Earth, Good Will to Men?” In a ghastly gleam of red, soldiers
             in helmets, gas masks, marching, marching, marching, falling, dying. Red Cross Nurses
             minister to the wounded)</sd>
         <dial>
             <spk>SONG OF THE SOLDIERS.</spk>
-            <desc>(The Rose of No Man’s Land)</desc>
+            <desc type="songtitle">(The Rose of No Man’s Land)</desc>
             <lb type="line" n="1">There’s a rose that grows on No Man’s Land,</lb>
             <lb type="line" n="2">And it's wonderful to see;</lb>
             <lb type="line" n="3">Tho’dimmed with tears</lb>
@@ -289,11 +289,11 @@
         <pn>13</pn>
     </scene>
     <scene n="4">
-        <sceneNumb>SCENE IV (as in Scene I)</sceneNumb>
+        <sceneNumb>SCENE IV </sceneNumb><sceneNumb type="reference">(as in Scene I)</sceneNumb>
         <sd>The children are discovered asleep at their prayer.</sd>
         <dial speak="HANNAH">
             <spk>HANNAH</spk> (Arousing herself): Twelve o’clock! Dear me! Almost time for Mother to
-            come home, and Annikins hasn’t been put to bed! W hat will Mother say! <sd>(Staring in
+            come home, and Annikins hasn’t been put to bed! What will Mother say! <sd>(Staring in
                 front of her as if dazed)</sd> But I have had a most wonderful dream! I thought I
                 saw—<sd>(rubs her eyes as if trying to make sure she’s awake. Turns to waken the
                 other children)</sd> Annikins! Nannettc! wake up ! Wake up, Dear. We ought to have
