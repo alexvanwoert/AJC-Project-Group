@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="AMW_AnnaJCooper_Scene1_Schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <titlePage>
+        <title>CHRISTMAS BELLS</title>
+        <desc>A One Act Play for Children</desc>
+        <prep>by</prep>
+        <author>ANNA J. COOPER</author>
+        <charList>
+            <desc>DRAMATIS PERSONAE</desc>
+            <spk>HANNAH</spk>, aged eleven, “the little Mother,” who has the care of her two
+            sisters, while the Mother works by the day, away from home. The Father is a soldier,
+            across the sea. 
+            <spk>NANNETTE</spk>, aged eight 
+            <spk>ANNIKINS</spk>, aged four 
+            <spk>THE THREE KINGS</spk>,— 
+            <spk>GASPARD</spk>, a European, 
+            <spk>MELCHOIR</spk>, an Asiatic,
+            <spk>BALTHAZAR</spk>, an African. 
+            <spk>CHORUS OF ANGELS</spk>
+            <spk>CHORUS OF SHEPHERDS</spk>
+            <spk>SUNSHINE CLUB OF THE COMMUNITY SERVICE</spk>. Soldiers. Red 
+            <spk>CROSS NURSES</spk>
+        </charList>
+    </titlePage>
+    
+    <scene n="1">
+        <sceneNumb>SCENE I</sceneNumb>
+        <sd>Before the curtain rises, Christinas chimes arc heard, playing distinctly,—“Christians,
+            awake! Salute the happy morn, Whereon the Savior of mankind was born!* At the close of
+            the chimes a pause of jo seconds absolute silence; after which there sounds shrill and
+            clear a single stroke of a bell. The curtain rises, disclosing a room of a humble family
+            of three children. “ The little Mother" is busy about the evening meal; Nannette is
+            setting the table; Annikins, on the floor, cuts pictures for paper dolls.</sd>
+        
+        <dial speak="NANNETTE"><spk>NANNETTE</spk>. What are the bells ringing for? </dial>
+        
+        <dial speak="HANNAH"><spk>HANNAH</spk>. Why, don’t you know dear? They're ringing for the
+            Christmas Child—for His birthday. This is Christmas Eve!</dial>
+        
+        <dial speak="ANNIKINS"><spk>ANNIKINS</spk>. Is Christ Child coming here? </dial>
+        
+        <dial speak="HANNAH"><spk>HANNAH</spk>. <sd>(Thoughtfully)</sd> Why yes, Annikins. He will
+            come to us if we try to be kind and good. </dial
+        >
+        <dial speak="NANNETTE"><spk>NANNETTE</spk>. Sister, can’t we possibly have a Christmas tree
+            this year ? </dial>
+        
+        <dial speak="HANNAH"><spk>HANNAH</spk>. I’m afraid not, deary. But we’ll try to be happy
+            just the same. We’ll play “make believe’’ and make each other wonderful presents. It's
+            lots of fun! And write letters to Daddy, and we’ll ask the Christ Child to bring Daddy
+            safe home to us, and then mother will not have to work so hard down town. And we’ll ask
+            the Christ Child to bring us sweet Peace and Good Will. Because lie is the Prince of
+            Peace, and that’s what He is coming for. And then I s'pose we ought to pray for
+            Democracy, ’cause that’s what Daddy is fighting for. </dial>
+        
+        <pn>2</pn>
+        
+        <dial speak="NANNETTE"><spk>NANNETTE</spk>. What is Democracy? </dial>
+        
+        <dial speak="HANNAH"><spk>HANNAH</spk>. I’m not sure I know, little sister. It’s kind of
+            hard to understand. But it must be what the Christ Child wants every where in the
+            world—for it means every body will be good and kind to every body and there'll not be
+            any poor people who can’t get enough to eat, nor any unkind people who scorn and hate.
+            Just all the world will love each other like you and I and Annikins love one another.
+            Every body will be helping to make the world good and pleasant for every body else and
+            so the Christ Child will come back to us again and He will be our Big Brother and all
+            the people will be brothers ’cause you see they will all be His brothers. Come now
+            Annikins, put away your paper dollies. Supper is ready. <sd>(She smoothes the child's
+                hair, examines hands and face to see that they arc clean, and lifts her into a
+                high-chair at the table. The others take their places and, with bowed heads and
+                folded hands, sing the grace)</sd> — God is great and God is good, And we thank thee
+            for this food; By thy hand must we be fed, Give us, Lord, our daily bread. Amen. </dial>
+        
+        <dial speak="ANNIKINS"><spk>ANNIKINS</spk>. Pass the sugar! <sd>(correcting herself)</sd>
+            Excuse me sister, please pass the sugar! </dial>
+        
+        <dial speak="HANNAH"><spk>HANNAH</spk>. Oo-h Annikins! [Don't take quite so much, love!
+            Uncle Sam says we can't have any more sugar till next month! </dial>
+        
+        <dial speak="ANNIKINS"><spk>ANNIKINS</spk>. <sd>(Confidentially to her big sister)</sd> you
+            tell the Christmas Child / want some sugar,—hear? <sd>(Carol singers are heard
+                outside)</sd>
+        </dial>
+        
+        <dial speak="HANNAH"><spk>HANNAH</spk>. Hush, child, listen. It’s the carol singers! </dial>
+        
+        <dial speak="CAROL SINGERS"><spk>CAROL SINGERS</spk>. Christmas where children are hopeful
+            and gay, Christmas where old men are patient and gray, Christmas with peace, like a dove
+            in its flight, Over brave men in the thick of the fight. Everywhere, everywhere,
+            Christmas tonight! Immediately after the carols the Sunshine Club come bursting in,
+            covered with snow. The boys tc-car muffllers. Some have ice-skates hung over their
+            shoulders. Two of the boys lug in a tree all ready to set up. The girls have their arms
+            full of trinkets for the tree and presents for the children. They are bubbling over with
+            spirits and gayly shouting,—“Merry Christmas Hannah! Merry Christmas Nanncttc! Hello,
+            Annikins! Merry Christmas!" Their leader gives the child a bear-hug, and presents her
+            with a wonderful doll, almost as big as the four-year-old herself. Nan net te gets a
+            beautiful red dress and a string of beads. The children clap their hands in glee. While
+            dressing the tree they sing. There’s a wonderful tree a wonderful tree The happy
+            children rejoice to see. Spreading its branches year by year It comes from the forest to
+            flourish here. Oh this beautiful tree with its branches wide Is always blooming at
+            Christmas T ide; And a voice is telling its boughs among Of the Shepherds’ watch and the
+            Angels’ song; Of a holv Babe in the manger low— The beautiful story of long ago— When a
+            radiant star threw its beams so wide To herald the earliest Christmas Tide. <sd>(Joining
+                hands, and singing, they dance around the tree)</sd>
+        </dial>
+        
+        <pn>4</pn>
+        
+        <dial speak="HANNAH"><spk>HANNAH</spk>. <sd>(A little shyly at first)</sd> Oh thank you!
+            Thank you so much girls. W hat a beautiful tree! Oh, we are so happy—I had no idea we
+            would have a tree! </dial>
+        
+        <dial speak="SUNSHINE GIRL"><spk>1st SUNSHINE GIRL</spk>. <sd>(Hanging a small doll on the
+            tree)</sd> Here is a baby-doll for Annikins; skates for Xannette. And here, little
+            Mother, is a gay peasant-kerchief and a picture storybook for you. I know you’ll read
+            the stories to the rest. Hannah never keeps anything all for herself! </dial>
+        
+        <dial speak="HANNAH"><spk>HANNAH</spk>. <sd>(Somewhat embarrassed)</sd> Oh girls, I—I can’t
+            tell you how much—Oh, I mean you are so good and kind—I just don’t know how to thank
+            you. </dial>
+        
+        <dial speak="SUNSHINE GIRL"><spk>1st SUNSHINE GIRL</spk>. Oh don’t thank us at all, just
+            thank the Christ Child! </dial>
+        
+        <dial speak="SUNSHINE GIRL"><spk>2nd SUNSHINE GIRL</spk>. All who love the Christ Child are
+            trying to make little children happy tonight, don't you know? We don’t want a single
+            child to be forgotten. His love will warm and cheer the loneliest child on earth. </dial>
+        
+        <dial speak="HANNAH"><spk>HANNAH</spk>. <sd>(Thoughtfully)</sd> Yes. All for the Christ
+            Child who was born tonight. To love Him is to love all little children. </dial>
+        
+        <dial speak="SUNSHINE GIRL"><spk>SUNSHINE GIRLS</spk>. <sd>(Putting on their wraps, waving
+            Merry Christmas to all; shaking hands affectionately with Hannah)</sd>. Good night
+            everybody! Be good children! Good night,—good night!</dial>
+        
+        <dial speak="THE CHILDREN"><spk>THE CHILDREN</spk>. Good night! Merry Christmas! </dial>
+        
+        <dial speak="ANNIKINS"><spk>ANNIKINS</spk>. <sd>(Piping up)</sd> Au revoir-au revoir!
+            <sd>(Exit S.S. Club laughing and throwing kisses. A pause)</sd></dial>
+        
+        <dial speak="NANNETTE"><spk>NANNETTE</spk>. What a wonderful tree! <sd>(They examine the
+            presents)</sd></dial>
+        
+        <dial speak="HANNAH"><spk>HANNAH</spk>. <sd>(Bustling to hide her emotion)</sd> Come now
+            <sd>(takes Annikins by the hand)</sd>. The Christ Child has sent us perfectly lovely
+            friends and I am so glad you have your Christmas tree after a ll! Kneel down children.
+            Annikins, put your hands together. <sd>(They all kneel and repeat a prayer)</sd> Oh holy
+            Child of Bethlehem! Descend to us we pray; Cast out our sin and enter in. Be born in us
+            today. We hear the Christmas angels The great glad tidings tell; Oh, come to us—Abide
+            with us, Our Lord, Emanuel. <sd>(During the prayer the stage is gradually darkened, so
+                that the children are no longer visible)</sd>
+        </dial>
+        
+    </scene>
+</xml>

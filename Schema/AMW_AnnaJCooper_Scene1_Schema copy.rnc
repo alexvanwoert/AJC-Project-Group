@@ -1,0 +1,19 @@
+start = xml
+xml = element xml {titlePage, scene+}
+
+titlePage = element titlePage {title, desc, prep, author, charList}
+title = element title {text}
+desc = element desc {text, type*}
+prep = element prep {text}
+author = element author {text}
+charList = element charList {mixed{(desc | spk)*}}
+
+scene = element scene {mixed{(sceneNumb | spk | pn | desc | sd | dial)*}, n}
+n = attribute n {xsd:integer}
+sceneNumb = element sceneNumb {text}
+spk = element spk {text}
+pn = element pn {xsd:integer}
+sd = element sd {mixed{(desc)*}, type*}
+dial = element dial {mixed{(spk | sd | pn | desc )*, speak*}}
+speak = attribute speak { 'THE CHILDREN' | 'HANNAH' | 'ANNIKINS' | 'NANNETTE' | 'SUNSHINE GIRL' | 'CAROL SINGERS'}
+type = attribute type {'italics' | 'bold' | 'line'}
