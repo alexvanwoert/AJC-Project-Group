@@ -1,4 +1,6 @@
-
+title
+{font-size:20px; color:green;
+}
 body {background-color: #e6e6e6; color: #031B3F;font-family: Georgia, Times, "Times New Roman", serif; padding:15px; line-height:1.4em}
 /*div#space {background-color:#FFFFFF; width:99%; margin:auto; padding: 20px; line-height:1.2em; } */
 
@@ -8,13 +10,13 @@ border: 1px solid #000066;
 padding: 15px;
 vertical-align:top;
 }
-
+hr{color:goldenrod}
 h1{font-size:20px;
-color:navy;}
+color:darkgreen;}
 h3{font-size:14px;
 color:navy;}
 h2{font-size:12px;
-color:navy;}
+color:darkred;}
 
 th {border-collapse: collapse;
 border: 1px solid  #000066;

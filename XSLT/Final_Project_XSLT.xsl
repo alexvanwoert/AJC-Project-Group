@@ -5,20 +5,23 @@
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
         omit-xml-declaration="yes"/>
     
+    <!-- zat: I think should format the HYMN as song lyrics instead of paragraphs.  The CHORUS OF ANGELS has odd syntax.  I think some of it might need to be italicized.  I can create a SSI for the Overview page.  I was thinking we could include an image of Anna Julia Cooper on the Overview page, or she possibly have her own page with a short biography.  Let me know what you guys think.  -->
+    
+    
     <xsl:template match="/">
         <html>
             <head>
-                <title>Christmas Bells</title>
                 <link rel="stylesheet" type="text/css" href="ajcStyle.css"/>
+           
             </head>
             
             <body>
-                <h1 id="H"><xsl:apply-templates select="descendant::Title"/></h1>
+                <h1 id="H"><u><xsl:apply-templates select="descendant::TITLE"/></u></h1>
                 <h2><xsl:apply-templates select="descendant::Author"/></h2>
                 <h4>Follow this and additional works at: <a href="http://dh.howard.edu/ajc_plays">http://dh.howard.edu/ajc_plays</a></h4>
                 <h4><xsl:apply-templates select="descendant::reccCit"/></h4>
                 <h4><xsl:apply-templates select="descendant::docAccessNote"/></h4>
-                
+                <hr/>
                 <section id="contents">
                     <table> 
                     <tr>
@@ -29,7 +32,10 @@
                     <xsl:apply-templates select="descendant::scene" mode="toc"/>
                     </table>
                 </section>
-                
+                <hr/>
+                <br/>
+                <h2><b><xsl:apply-templates select="descendant::titlePage/title"/></b></h2>
+                <h4>Listen to an audio track that concides with the play:  <a href="https://youtu.be/__J_T2zzmQc">Ring Christmas Bells</a>  </h4>
                 <section id="readingView">
                     <xsl:apply-templates select="descendant::scene"/>
                 </section>
@@ -57,18 +63,19 @@
         
     </xsl:template>
     
+
+    <xsl:template match="spk"> 
+        <u><xsl:apply-templates/></u>:<br/>
+    </xsl:template>
+    
     <xsl:template match="dial"> 
-        <p><xsl:apply-templates/></p> 
+        <p><xsl:apply-templates/></p>
     </xsl:template>
     
     <xsl:template match="desc"> 
-        <p><xsl:apply-templates/></p> 
+        <i><p><xsl:apply-templates/></p></i>
     </xsl:template>
-    
-    <xsl:template match="spk">
-        <u><xsl:apply-templates/>:</u><br/>
-    </xsl:template>
-    
+   
     <xsl:template match="sd">
         <em><xsl:apply-templates/></em>
     </xsl:template>

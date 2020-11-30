@@ -1,16 +1,19 @@
 start = xml
 xml = element xml {docCit, titlePage, scene+}
 
-docCit = element docCit {heading, subHeading, date, title, author, outerLink, reccCit, docAccessNote}
+docCit = element docCit {heading, subHeading, date, TITLE, title, Author, outerLink, reccCit, docAccessNote}
 heading = element heading {text}
 subHeading = element subHeading {text}
 date = element date {text}
+Author = element Author {text}
 outerLink = element outerLink {text}
 reccCit = element reccCit {text}
 docAccessNote = element docAccessNote {text}
 
-titlePage = element titlePage {title, desc, prep, author, charList}
+titlePage = element titlePage {title, outerLink, Author, desc, prep, author, charList}
+
 title = element title {text}
+TITLE = element TITLE {text}
 desc = element desc {text, type*}
 #differentiate all desc with attributes
 
@@ -32,3 +35,4 @@ enjambment = element enjambment {text}
 
 #Should CAROL SINGERS from line 67 to line 84 have </lb> elements?
 #Could we code the dialect from the speeches? For instance whereof in ANGEL at line 145.
+#I think we should combine the two schemas into one schema.  

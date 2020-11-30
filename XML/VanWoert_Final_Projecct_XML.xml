@@ -5,7 +5,7 @@
         <heading>Howard University Digital Howard @ Howard University</heading>
         <subHeading>Plays and Programs Manuscripts by Anna Julia Cooper</subHeading>
         <date>October 2017</date>
-        <Title>Christmas Bells: A One Act Play For Children</Title>
+        <TITLE>Christmas Bells: A One Act Play For Children</TITLE>
         <Author> By Anna Julia Cooper</Author>
         <outerLink>Follow this and additional works at: http://dh.howard.edu/ajc_plays</outerLink>
         <reccCit>Recommended Citation "Christmas Bells: A One Act Play For Children By Anna Julia
@@ -306,7 +306,7 @@
         <sceneNumb>SCENE IV </sceneNumb><sceneNumb type="reference">(as in Scene I)</sceneNumb>
         <sd>The children are discovered asleep at their prayer.</sd>
         <dial speak="HANNAH">
-            <spk>HANNAH</spk> (Arousing herself): Twelve o’clock! Dear me! Almost time for Mother to
+            <spk>HANNAH</spk> <sd>(Arousing herself)</sd>: Twelve o’clock! Dear me! Almost time for Mother to
             come home, and Annikins hasn’t been put to bed! What will Mother say! <sd>(Staring in
                 front of her as if dazed)</sd> But I have had a most wonderful dream! I thought I
                 saw—<sd>(rubs her eyes as if trying to make sure she’s awake. Turns to waken the
