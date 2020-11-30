@@ -11,7 +11,7 @@
     <xsl:template match="/">
         <html>
             <head>
-                <link rel="stylesheet" type="text/css" href="ajcStyle.css"/>
+                <link rel="stylesheet" type="text/css" href="C:\Users\zteys\Documents\GitHub\AJC-Project-Group\XSLT\ajcStyle.css"/>
            
             </head>
             
