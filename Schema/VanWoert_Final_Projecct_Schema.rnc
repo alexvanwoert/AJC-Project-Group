@@ -1,20 +1,20 @@
 start = xml
 xml = element xml {docCit, titlePage, scene+}
 
-docCit = element docCit {heading, subHeading, date, TITLE, title, Author, outerLink, reccCit, docAccessNote}
+docCit = element docCit {heading*, subHeading*, date*, TITLE*, title*, Author*, outerLink*, reccCit*, docAccessNote*}
 heading = element heading {text}
 subHeading = element subHeading {text}
-date = element date {text}
+date = element date {text, type*}
 Author = element Author {text}
 outerLink = element outerLink {text}
 reccCit = element reccCit {text}
 docAccessNote = element docAccessNote {text}
 
-titlePage = element titlePage {title, outerLink, Author, desc, prep, author, charList}
+titlePage = element titlePage {title*, outerLink*, Author*, desc*, prep*, author*, charList*}
 
 title = element title {text}
 TITLE = element TITLE {text}
-desc = element desc {text, type*}
+desc = element desc {mixed{(date)*}, type*}
 #differentiate all desc with attributes
 
 prep = element prep {text}
@@ -23,13 +23,13 @@ charList = element charList {mixed{(desc | spk)*}}
 
 scene = element scene {mixed{(sceneNumb | spk | pn | desc | sd | dial)*}, n}
 n = attribute n {xsd:integer}
-sceneNumb = element sceneNumb {mixed{type*}}
+sceneNumb = element sceneNumb {mixed{(type | date)*}}
 spk = element spk {text}
 pn = element pn {xsd:integer}
 sd = element sd {mixed{(desc)*}, type*}
 dial = element dial {mixed{(spk | sd | pn | desc | lb | enjambment)*, speak*}}
 speak = attribute speak {'ANGEL' | 'CHRISTMAS ANNODOMINI' | 'THE CHILDREN' | 'HANNAH' | 'ANNIKINS' | 'NANNETTE' | 'CHORUS' | 'QUARTETTE' | 'THE NURSES' | 'SECOND CHORUS'| 'ANGELS' | 'BALTHAZAR' | 'MELCHIOR' | 'GASPARD' | 'SHEPHERDS' | 'THE KINGS' | 'CHORUS OF ANGELS' | 'HYMN' | 'CHRISTMAS ANNODIMI' | 'SUNSHINE GIRL' | 'CAROL SINGERS'}
-type = attribute type {'italics' | 'bold' | 'line' | 'repeat' | 'reference' | 'setting' | 'songtitle' | 'scenetitle' | 'chorus' | 'dramaticpersons'}
+type = attribute type {'year' | 'italics' | 'bold' | 'line' | 'repeat' | 'reference' | 'setting' | 'songtitle' | 'scenetitle' | 'chorus' | 'dramaticpersons'}
 lb = element lb {text, type*, n*}
 enjambment = element enjambment {text}
 
