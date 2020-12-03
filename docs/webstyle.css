@@ -34,7 +34,22 @@ h3 {
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	color: #220B5E;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	}
+table, th, td
+{
+    border-collapse: collapse;
+    border: 1px solid #000066;    
+    padding: 15px;
+    vertical-align:top;
+}
+th {border-collapse: collapse;
+    border: 1px solid  #000066;
+    background-color: #967ECB; /*#7E967E;*/
+    padding: 1px;
+    vertical-align:middle;
+}
 a:link { 
 	font-weight: bold; 
 	text-decoration: none; 
@@ -197,7 +212,9 @@ footer a:link, footer a:visited {
 	}
 	
 /* nav bar styling */
-
+.names{
+    padding-left: 20px;
+}
 ol {list-style-type: lower-alpha;
 padding: 5em;
     
@@ -205,12 +222,24 @@ padding: 5em;
 iframe{width: 100%;
 height: 700px;
 }
+.ajcpic{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #220B5E;
+}
+.lisc{
+      list-style-type: none;
+  margin: 0;
+  padding: 20px 20px 20px 20px;
+  overflow: hidden;
+  background-color: #220B5E;
+  color: #967ECB;
 }
 li {
   float: left;
