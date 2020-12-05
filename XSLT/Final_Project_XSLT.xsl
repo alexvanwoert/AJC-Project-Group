@@ -11,7 +11,7 @@
     <xsl:template match="/">
         <html>
             <head>
-                <link rel="stylesheet" type="text/css" href="C:\Users\zteys\Documents\GitHub\AJC-Project-Group\XSLT\ajcStyle.css"/>
+                <link rel="stylesheet" type="text/css" href="ajcStyle.css"/>
            
             </head>
             
@@ -73,7 +73,7 @@
     </xsl:template>
     
     <xsl:template match="desc"> 
-        <i><p><xsl:apply-templates/></p></i>
+        <span class = "desc"><xsl:apply-templates/></span>
     </xsl:template>
    
     <xsl:template match="sd">
