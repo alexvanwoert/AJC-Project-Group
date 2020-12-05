@@ -7,8 +7,8 @@ body {
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
 	color: #555753; 
-	margin: 0; 
-	padding: 0;
+	margin-left: 5em; 
+
 	}
 p { 
 	margin-top: 0; 
@@ -254,3 +254,26 @@ li a {
 li a:hover {
   background-color: #3B1D98;
 }
+/* unvisited link */
+td a:link {
+  color: red;
+}
+
+/* visited link */
+td a:visited {
+  color: green;
+}
+
+/* mouse over link */
+td a:hover {
+  color: darkred;
+}
+
+/* selected link */
+td a:active {
+  color: darkgreen;
+}
+
+span.location {background-color:yellow; text-decoration-line:underline; text-decoration-style: wavy;} 
+span.tech {background-color:aqua; text-decoration-line: overline underline;} 
+span.desc {font:italic}

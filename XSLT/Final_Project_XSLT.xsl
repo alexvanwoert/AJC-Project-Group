@@ -11,12 +11,23 @@
     <xsl:template match="/">
         <html>
             <head>
-                <link rel="stylesheet" type="text/css" href="ajcStyle.css"/>
+                <link rel="stylesheet" type="text/css" href="webstyle.css"/>
            
             </head>
             
             <body>
                 <h1 id="H"><u><xsl:apply-templates select="descendant::TITLE"/></u></h1>
+                <ul>
+                    <li><a href="home.html">Home</a></li>
+                    <li><a href="edition.html">PDF Edition</a></li>
+                    <li><a href="Final_Project_XSLT_Output.html">XSLT Output</a></li>
+                    <li><a href="analysis.html">Analysis</a></li>
+                    <li><a href="conclusion.html">Conclusion</a></li>
+                    <li><a href="Overview.html">Overview</a></li>
+                    <li><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img
+                        alt="Creative Commons License" style="border-width:0"
+                        src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a></li>
+                </ul>
                 <h2><xsl:apply-templates select="descendant::Author"/></h2>
                 <h4>Follow this and additional works at: <a href="http://dh.howard.edu/ajc_plays">http://dh.howard.edu/ajc_plays</a></h4>
                 <h4><xsl:apply-templates select="descendant::reccCit"/></h4>
@@ -39,6 +50,11 @@
                 <section id="readingView">
                     <xsl:apply-templates select="descendant::scene"/>
                 </section>
+                <ul class="lisc">
+                    <li>This work is licensed under a: <a rel="license"
+                        href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons
+                        Attribution-NonCommercial 4.0 International License</a></li>
+                </ul>
             </body>
         </html>
     </xsl:template>
