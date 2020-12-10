@@ -100,7 +100,8 @@
             <lb type="line" n="7"> The happy children rejoice to see.</lb>
             <lb type="line" n="8">Spreading its branches year by year </lb>
             <lb type="line" n="9">It comes from the forest to flourish here.</lb>
-            <lb type="line" n="10">Oh this beautiful tree with its branches wide Is always blooming at Christmas Tide;</lb>
+            <lb type="line" n="10">Oh this beautiful tree with its branches wide Is always blooming
+                at Christmas Tide;</lb>
             <lb type="line" n="11"> And a voice is telling its boughs among</lb>
             <lb type="line" n="12">Of the Shepherds’ watch and the Angels’ song;</lb>
             <lb type="line" n="13">Of a holv Babe in the manger low— </lb>
@@ -143,10 +144,16 @@
             <sd>(Bustling to hide her emotion)</sd> Come now <sd>(takes Annikins by the hand)</sd>.
             The Christ Child has sent us perfectly lovely friends and I am so glad you have your
             Christmas tree after a ll! Kneel down children. Annikins, put your hands together.
-                <sd>(They all kneel and repeat a prayer)</sd> Oh holy Child of Bethlehem! Descend to
-            us we pray; Cast out our sin and enter in. Be born in us today. We hear the Christmas
-            angels The great glad tidings tell; Oh, come to us—Abide with us, Our Lord, Emanuel.
-                <sd>(During the prayer the stage is gradually darkened, so that the children are no
+                <sd>(They all kneel and repeat a prayer)</sd>
+            <lb type="line" n="1">Oh holy Child of Bethlehem!</lb>
+            <lb type="line" n="2">Descend to us we pray;</lb>
+            <lb type="line" n="3">Cast out our sin and enter in,</lb>
+            <lb type="line" n="4">Be born in us today.</lb>
+            <lb type="line" n="5">We hear the Christmas angels</lb>
+            <lb type="line" n="6">The great glad tidings tell;</lb>
+            <lb type="line" n="7">Oh, come to us—Abide with us,</lb>
+            <lb type="line" n="8">Our Lord, Emanuel.</lb>
+            <sd>(During the prayer the stage is gradually darkened, so that the children are no
                 longer visible)</sd>
         </dial>
     </scene>
@@ -157,54 +164,113 @@
             the screen a still life night scene of the City of Bethlehem. Shepherds with flocks in
             the middle distance chorus by radio transcription: </dial>
         <dial speak="HYMN"><spk>HYMN</spk>
-            <desc type="chorus">(Chorus or transcription)</desc> O little town of Bethlehem, How
-            still we see thee lie! Above thy deep and dreamless sleep The silent stars go by; Yet in
-            thy dark streets shineth The everlasting Light; The hopes and fears of all the years Are
-            met in thee tonight. <pn>6</pn> For Christ is born of Mary, And gathered all above While
-            mortals sleep, the angels keep Their watch of wondering love. O morning stars together
-            Proclaim the holy birth, And praises sing to God the King And peace to men on earth! How
-            silently, how silently The wondrous gift is given! So God imparts to human hearts The
-            blessings of His heaven. No ear may hear his coming, But, in this world of sin, Where
-            meek souls will receive Him, still The dear Christ enters in.</dial>
+            <desc type="chorus">(Chorus or transcription)</desc>
+            <lb type="line" n="1">O little town of Bethlehem,</lb>
+            <lb type="line" n="2">How still we see thee lie!</lb>
+            <lb type="line" n="3">Above thy deep and dreamless sleep</lb>
+            <lb type="line" n="4">The silent stars go by;</lb>
+            <lb type="line" n="5"> Yet in thy dark streets shineth</lb>
+            <lb type="line" n="6">The everlasting Light;</lb>
+            <lb type="line" n="7">The hopes and fears of all the years</lb>
+            <lb type="line" n="8">Are met in thee tonight.</lb>
+            <pn>6</pn>
+            <lb type="line" n="9">For Christ is born of Mary,</lb>
+            <lb type="line" n="10">And gathered all above</lb>
+            <lb type="line" n="11">While mortals sleep, the angels keep</lb>
+            <lb type="line" n="12"> Their watch of wondering love.</lb>
+            <lb type="line" n="13">O morning stars together</lb>
+            <lb type="line" n="14">Proclaim the holy birth,</lb>
+            <lb type="line" n="15">And praises sing to God the King</lb>
+            <lb type="line" n="16">And peace to men on earth!</lb>
+            <lb type="line" n="17">How silently, how silently</lb>
+            <lb type="line" n="18">The wondrous gift is given!</lb>
+            <lb type="line" n="19">So God imparts to human hearts</lb>
+            <lb type="line" n="20">The blessings of His heaven.</lb>
+            <lb type="line" n="21">No ear may hear his coming,</lb>
+            <lb type="line" n="22">But, in this world of sin,</lb>
+            <lb type="line" n="23">Where meek souls will receive Him, still</lb>
+            <lb type="line" n="24">The dear Christ enters in.</lb></dial>
         <dial speak="HYMN"><spk> HYMN</spk>
-            <desc type="chorus">(Chorus or transcription)</desc> While shepherds watched their flock
-            by night, All seated on the ground, The angel of the Lord came down, And glory shone
-            around. “Fear not,” he said, for mighty dread Had seized their troubled mind; “Glad
-            tidings of great joy I bring To you and all mankind.” <sd>(A strong white light is
-                thrown on the stage. A shining Angel descends and sings)</sd>
+            <desc type="chorus">(Chorus or transcription)</desc>
+            <lb type="line" n="1">While shepherds watched their flock by night,</lb>
+            <lb type="line" n="2"> All seated on the ground,</lb>
+            <lb type="line" n="3">The angel of the Lord came down,</lb>
+            <lb type="line" n="4">And glory shone around.</lb>
+            <lb type="line" n="5">“Fear not,” he said, for mighty dread</lb>
+            <lb type="line" n="6">Had seized their troubled mind;</lb>
+            <lb type="line" n="7">“Glad tidings of great joy I bring</lb>
+            <lb type="line" n="8">To you and all mankind.”</lb>
+            <sd>(A strong white light is thrown on the stage. A shining Angel descends and
+                sings)</sd>
         </dial>
-        <dial speak="ANGEL"><spk>ANGEL</spk> “From Heaven above to earth I come To bring glad news
-            to every home; Glad tidings of great joy I bring Whereof I now do tell and sing. To you
-            tonight is born a child <pn>7</pn> Of Mary chosen Mother mildThis little child of lowly
-            birth Shall be the Joy of all the Earth. <sd>(There appears suddenly from all sides a
-                throng of angels who sing in chorus)</sd>
+        <dial speak="ANGEL"><spk>ANGEL</spk>
+            <lb type="line" n="1">“From Heaven above to earth I come</lb>
+            <lb type="line" n="2">To bring glad news to every home;</lb>
+            <lb type="line" n="3"> Glad tidings of great joy I bring</lb>
+            <lb type="line" n="4">Whereof I now do tell and sing.</lb>
+            <lb type="line" n="5">To you tonight is born a child</lb>
+            <pn>7</pn>
+            <lb type="line" n="6">Of Mary chosen Mother mild;</lb>
+            <lb type="line" n="7">This little child of lowly birth</lb>
+            <lb type="line" n="8">Shall be the Joy of all the Earth.</lb>
+            <sd>(There appears suddenly from all sides a throng of angels who sing in chorus)</sd>
         </dial>
-        <dial speak="ANGELS"><spk>ANGELS</spk> All glory be to God on high. And to the earth be
-            peace. Good will henceforth from heaven to men Begin and never cease. For </dial>
-        <dial speak="CHORUS OF ANGELS"><spk>CHORUS OF ANGELS</spk> “Glory to God:,y from Handel's
-            Messiah may be used if preferred. Angels disappear suddenly <sd>(effected by
-                manipulation of lights)</sd>. Enter, left back, Shepherds wearing loose tunics,
-            carrying crooks, and singing:</dial>
-        <dial speak="SHEPHERDS"><spk>SHEPHERDS</spk> Hark ! the herald angels sing Glory to the
-            new-born King; Peace on earth and mercy mild, God and sinners reconciled! Joyful, all ye
-            nations, rise, Join the triumph of the skies; With the angelic host proclaim, Christ is
-            born in Bethlehem! <sd>(Exeunt Shepherds right. The stage is dark. There appears, dimly
-                at first, a star just visible in the darkness. As the star grows brighter the three
-                Kings, L, back, pass to the front, R, singing)</sd>: </dial>
-        <dial speak="THE KINGS"><spk>THE KINGS</spk> We three Kings of Orient are, <pn>8</pn>
-            Bearing gifts we traverse afar, Field and fountain, Moor and mountain, Following yonder
-            Star. <desc type="repeat">(Refrain)</desc> O Star of wonder—star of night— Star with
-            royal beauty bright, Westward leading, still proceeding, Guide us to thy perfect light. </dial>
-        <dial speak="GASPARD"><spk>GASPARD</spk> Born a King on Bethlehem’s plain, Gold I bring to
-            crown Him again, King forever, ceasing never Over us all to reign.</dial>
-        <dial speak="MELCHIOR"><spk>MELCHIOR</spk> Frankincense to offer have I— Incense owns a
-            Deity nigh. Prayer and praising, all men raising, Worship Him—God on high. </dial>
-        <dial speak="BALTHAZAR"><spk>BALTHAZAR</spk> Myrrh is mine; its bitter perfume Breathes a
-            life of gathering gloom; Sorrowing, sighing, bleeding, dying, Sealed in the stone-cold
-            tomb. <desc type="repeat">(Refrain)</desc>
+        <dial speak="ANGELS"><spk>ANGELS</spk>
+            <lb type="line" n="1"> All glory be to God on high.</lb>
+            <lb type="line" n="2">And to the earth be peace.</lb>
+            <lb type="line" n="3">Good will henceforth from heaven to men</lb>
+            <lb type="line" n="4">Begin and never cease.</lb>
+            <sd>For chorus of angles, “Glory to God:,y from Handel's Messiah may be used if
+                preferred. Angels disappear suddenly (effected by manipulation of lights). Enter,
+                left back, Shepherds wearing loose tunics, carrying crooks, and singing:</sd></dial>
+        <dial speak="SHEPHERDS"><spk>SHEPHERDS</spk>
+            <lb type="line" n="1">Hark ! the herald angels sing</lb>
+            <lb type="line" n="2">Glory to the new-born King;</lb>
+            <lb type="line" n="3">Peace on earth and mercy mild,</lb>
+            <lb type="line" n="4">God and sinners reconciled!</lb>
+            <lb type="line" n="5">Joyful, all ye nations, rise,</lb>
+            <lb type="line" n="6">Join the triumph of the skies;</lb>
+            <lb type="line" n="7">With the angelic host proclaim,</lb>
+            <lb type="line" n="8">Christ is born in Bethlehem!</lb>
+            <sd>(Exeunt Shepherds right. The stage is dark. There appears, dimly at first, a star
+                just visible in the darkness. As the star grows brighter the three Kings, L, back,
+                pass to the front, R, singing):</sd> </dial>
+        <dial speak="THE KINGS"><spk>THE KINGS</spk>
+            <lb type="line" n="1">We three Kings of Orient are,</lb>
+            <pn>8</pn>
+            <lb type="line" n="2">Bearing gifts we traverse afar,</lb>
+            <lb type="line" n="3">Field and fountain,</lb>
+            <lb type="line" n="4">Moor and mountain,</lb>
+            <lb type="line" n="5">Following yonder Star.</lb>
+            <desc type="repeat">(Refrain)</desc>
+            <lb type="line" n="6">O Star of wonder—star of night—</lb>
+            <lb type="line" n="7"> Star with royalbeauty bright,</lb>
+            <lb type="line" n="8">Westward leading, still proceeding,</lb>
+            <lb type="line" n="9">Guide us to thy perfect light.</lb>
         </dial>
-        <dial speak="ANNIKINS"><spk>ANNIKINS</spk> Glorious now behold Him arise, King and God and
-            Sacrifice. Alleluia, alleluia! Earth to heaven replies. <pn>9</pn>
+        <dial speak="GASPARD"><spk>GASPARD</spk>
+            <lb type="line" n="1">Born a King on Bethlehem’s plain,</lb>
+            <lb type="line" n="2">Gold I bring to crown Him again, </lb>
+            <lb type="line" n="3">King forever, ceasing never</lb>
+            <lb type="line" n="4">Over us all to reign.</lb></dial>
+        <dial speak="MELCHIOR"><spk>MELCHIOR</spk>
+            <lb type="line" n="1">Frankincense to offer have I—</lb>
+            <lb type="line" n="2">Incense owns a Deity nigh.</lb>
+            <lb type="line" n="3">Prayer and praising, all men raising,</lb>
+            <lb type="line" n="4">Worship Him—God on high. </lb></dial>
+        <dial speak="BALTHAZAR"><spk>BALTHAZAR</spk>
+            <lb type="line" n="1">Myrrh is mine; its bitter perfume </lb>
+            <lb type="line" n="2">Breathes a life of gathering gloom;</lb>
+            <lb type="line" n="3">Sorrowing, sighing, bleeding, dying,</lb>
+            <lb type="line" n="4">Sealed in the stone-cold tomb. </lb>
+            <desc type="repeat">(Refrain)</desc>
+        </dial>
+        <dial speak="ANNIKINS"><spk>ANNIKINS</spk>
+            <lb type="line" n="1">Glorious now behold Him arise,</lb>
+            <lb type="line" n="2">King and God and Sacrifice.</lb>
+            <lb type="line" n="3">Alleluia, alleluia!</lb>
+            <lb type="line" n="4">Earth to heaven replies.</lb>
+            <pn>9</pn>
             <desc type="repeat">(Refrain)</desc>
             <sd>(As the Kings leave, the stage is again dark. The star alone is seen, in the middle
                 distance. Gradually one spot begins to glow till, in the full radiance, is seen the
@@ -212,18 +278,36 @@
                     Night)</desc>. While the Chorus sings softly, the Shepherds enter and adore;
                 later the Kings)</sd>
         </dial>
+
        
-        <dial speak="ANGELS"><spk>ANGELS</spk> Holy night, Silent Night! All is calm all is bright
-            Round yon Virgin Mother and Child. Holy infant, so tender and mild. Sleep in heavenly
-            peace! Silent Night, Holy Night, Shepherds quake at the sight, Glories stream from
-            Heaven afar. Heavenly hosts sing Alleluia, Christ the Savior is born. Silent Night, Holy
-            Night, Son of God, love’s pure light Radiant beams from thy holy face. With the dawn of
-            redeeming grace, Jesus, Lord, at thy birth. </dial>
-        <dial speak="SECOND CHORUS"><spk>SECOND CHORUS</spk> Sleep, Holy Babe, upon thy Mother’s
-            breast; Great Lord of earth and sea and sky! How sweet it is to see thee lie In such a
-            place of rest! Sleep holy Babe, thine angels watch around, * All bending low with folded
-            wings, Before th’incarnate King of Kings. <sd>(The scene fades in darkness. A long
-                silence. Three strokes of a bell)</sd>
+   
+        <dial speak="ANGELS"><spk>ANGELS</spk>
+            <lb type="line" n="1"> Holy night, Silent Night!</lb>
+            <lb type="line" n="2">All is calm all is bright</lb>
+            <lb type="line" n="3">Round yon Virgin Mother and Child.</lb>
+            <lb type="line" n="4">Holy infant, so tender and mild,</lb>
+            <lb type="line" n="5">Sleep in heavenly peace!</lb>
+            <lb type="line" n="6">Silent Night, Holy Night,</lb>
+            <lb type="line" n="7">Shepherds quake at the sight,</lb>
+            <lb type="line" n="8">Glories stream from Heaven afar,</lb>
+            <lb type="line" n="9"> Heavenly hosts sing Alleluia,</lb>
+            <lb type="line" n="10"> Christ the Savior is born.</lb>
+            <lb type="line" n="11">Silent Night, Holy Night,</lb>
+            <lb type="line" n="12">Son of God, love’s pure light</lb>
+            <lb type="line" n="13">Radiant beams from thy holy face.</lb>
+            <lb type="line" n="14">With the dawn of redeeming grace,</lb>
+            <lb type="line" n="15"> Jesus, Lord, at thy birth.</lb>
+        </dial>
+        <dial speak="SECOND CHORUS"><spk>SECOND CHORUS</spk>
+            <lb type="line" n="1">Sleep, Holy Babe, upon thy Mother’s breast;</lb>
+            <lb type="line" n="2">Great Lord of earth and sea and sky!</lb>
+            <lb type="line" n="3">How sweet it is to see thee lie</lb>
+            <lb type="line" n="4">In such a place of rest!</lb>
+            <lb type="line" n="5">Sleep holy Babe, thine angels watch around,</lb>
+            <lb type="line" n="6">All bending low with folded wings,</lb>
+            <lb type="line" n="7"> Before th’incarnate King of Kings.</lb>
+            <sd>(The scene fades in darkness. A long silence. Three strokes of a bell)</sd>
+
         </dial>
         <pn>10</pn>
     </scene>

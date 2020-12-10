@@ -88,8 +88,8 @@
         <p><xsl:apply-templates/></p>
     </xsl:template>
     
-    <xsl:template match="dial[@speak='ANGELS']/spk">    
-        <u><p>ANGELS:</p></u> <b><a href = "https://www.youtube.com/watch?v=6GUnfLPpjLs">Silent Night</a></b>
+    <xsl:template match="dial[@speak='ANGELS']/spk>    
+    <b><a href = "https://www.youtube.com/watch?v=6GUnfLPpjLs">Silent Night</a></b>
       
     </xsl:template>
     
