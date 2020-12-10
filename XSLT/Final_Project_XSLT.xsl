@@ -76,7 +76,7 @@
         <h2 id="C{count(preceding-sibling::scene) + 1}"><a href="#H"><xsl:apply-templates select="sceneNumb"/></a></h2>
         <div class="p"><xsl:apply-templates select="sd"/></div>
         <div class="p"><xsl:apply-templates select="dial"/></div>
-        
+        <br><xsl:apply-templates select = "dial[speak='ANGELS']/spk"/></br>
     </xsl:template>
     
 
@@ -84,8 +84,13 @@
         <u><xsl:apply-templates/></u>:<br/>
     </xsl:template>
     
-    <xsl:template match="dial"> 
+    <xsl:template match="dial">    
         <p><xsl:apply-templates/></p>
+    </xsl:template>
+    
+    <xsl:template match="dial[@speak='ANGELS']/spk">    
+        <u><p>ANGELS:</p></u> <b><a href = "https://www.youtube.com/watch?v=6GUnfLPpjLs">Silent Night</a></b>
+      
     </xsl:template>
     
     <xsl:template match="desc"> 
