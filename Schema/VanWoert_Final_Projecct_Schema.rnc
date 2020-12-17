@@ -33,6 +33,7 @@ pn = element pn {xsd:integer}
 sd = element sd {mixed{(desc)*}, type*}
 dial = element dial {mixed{( spk | sd | pn | desc | lb | enjambment)*, speak*}}
 
+
 speak = attribute speak {'ANGEL' | 'CHRISTMAS ANNODOMINI' | 'THE CHILDREN' | 'HANNAH' | 'ANNIKINS' | 'NANNETTE' | 'CHORUS' | 'QUARTETTE' | 'THE NURSES' | 'SECOND CHORUS'| 'ANGELS' | 'BALTHAZAR' | 'MELCHIOR' | 'GASPARD' | 'SHEPHERDS' | 'THE KINGS' | 'CHORUS OF ANGELS' | 'HYMN' | 'CHRISTMAS ANNODIMI' | 'SUNSHINE GIRL' | 'CAROL SINGERS'}
 
 type = attribute type {'year' | 'italics' | 'bold' | 'line' | 'repeat' | 'reference' | 'setting' | 'songtitle' | 'scenetitle' | 'chorus' | 'dramaticpersons'}

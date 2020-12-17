@@ -76,7 +76,10 @@
         <h2 id="C{count(preceding-sibling::scene) + 1}"><a href="#H"><xsl:apply-templates select="sceneNumb"/></a></h2>
         <div class="p"><xsl:apply-templates select="sd"/></div>
         <div class="p"><xsl:apply-templates select="dial"/></div>
-        <br><xsl:apply-templates select = "dial[speak='ANGELS']/spk"/></br>
+        <br><xsl:apply-templates select = "dial[speak='ANGELS']/spk/lb"/></br>
+        <br><xsl:apply-templates select = "dial[speak='HYMN']/spk"/></br>
+        <br><xsl:apply-templates select = "dial[speak='SHEPHERDS']/spk/lb"/></br>
+        <br><xsl:apply-templates select = "dial[speak='THE KINGS']/spk/lb"/></br>
     </xsl:template>
     
 
@@ -84,15 +87,29 @@
         <u><xsl:apply-templates/></u>:<br/>
     </xsl:template>
     
+    <xsl:template match="dial[@speak='ANGELS']/lb[contains(., 'Silent Night')]">    
+       <b> <a href = "https://www.youtube.com/watch?v=6GUnfLPpjLs">Silent Night</a></b>
+    </xsl:template>
+    
+    <xsl:template match="dial[@speak='HYMN']/lb[contains(., 'O little town of Bethlehem')]">    
+        <b> <a href = "https://www.youtube.com/watch?v=7lWshYhKTm4">O little town of Bethlehem</a></b>
+    </xsl:template>
+    
+
+    
+    <xsl:template match="dial[@speak='SHEPHERDS']/lb[contains(., 'Hark! the herald angels sing')]">    
+        <b> <a href = "https://www.youtube.com/watch?v=p6r9O3zd8P8">Hark! the herald angels sing</a></b>
+    </xsl:template>
+    
+    <xsl:template match="dial[@speak='THE KINGS']/lb[contains(., 'We three Kings of Orient are')]">    
+        <b> <a href = "https://www.youtube.com/watch?v=p6r9O3zd8P8">We three Kings of Orient are</a></b>
+    </xsl:template>
+    
     <xsl:template match="dial">    
         <p><xsl:apply-templates/></p>
     </xsl:template>
     
-    <xsl:template match="dial[@speak='ANGELS']/spk>    
-    <b><a href = "https://www.youtube.com/watch?v=6GUnfLPpjLs">Silent Night</a></b>
-      
-    </xsl:template>
-    
+ 
     <xsl:template match="desc"> 
         <span class = "desc"><xsl:apply-templates/></span>
     </xsl:template>
