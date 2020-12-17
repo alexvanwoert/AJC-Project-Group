@@ -37,6 +37,14 @@ h3 {
 	padding-top: 10px;
 	padding-bottom: 10px;
 	}
+h4 {
+    font: italic normal 1.4em georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color: #220B5E;
+	padding-top: 0px;
+	padding-bottom: 10px;
+}
 table, th, td
 {
     border-collapse: collapse;
