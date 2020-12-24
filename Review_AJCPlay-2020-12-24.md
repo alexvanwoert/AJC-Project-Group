@@ -12,7 +12,8 @@ The team did a fine job with producing a coded digital edition of Anna Julia Coo
 
 ### Digital Document Curation
 Here is a correction I hope you will address quickly! You all have pretty severely downplayed, even *erased* your own roles as editors of this play, in a way that is kind of problematic, because you are advertising to people that they should be citing *not* your digital edition but rather the Howard University page. I realize you that you were reproducing that information from the PDF, but it is not appropriate on your reading view page because it is not accurate. *You* transcribed the information in XML code, and *you* produced the edition we are reading on this website. You do not need to provide citation information at all, but if you do, you would want to represent your own work, perhaps like this:
-**Recommend Citation**
+
+**Recommended Citation**
 Anna Julia Cooper. *Christmas Bells: A One Act Play for Children*. Edited by Alexander VanWoert, Zak Teyssier, Natalya Meyers, Anthony Wlodarczyk. <https://alexvanwoert.github.io/AJC-Project-Group/Final_Project_XSLT_Output.html>. 2020. 
 You should then add some explanation, either on the reading view page or the main page (somewhere on the site) about your team's relationship to the Howard University material you worked with. You should certainly cite them, but you should not be advertising *their* citation information as your own. Does that make sense?
 
