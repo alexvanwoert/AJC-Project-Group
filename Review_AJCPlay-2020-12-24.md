@@ -15,6 +15,7 @@ Here is a correction I hope you will address quickly! You all have pretty severe
 
 **Recommended Citation**
 Anna Julia Cooper. *Christmas Bells: A One Act Play for Children*. Edited by Alexander VanWoert, Zak Teyssier, Natalya Meyers, Anthony Wlodarczyk. <https://alexvanwoert.github.io/AJC-Project-Group/Final_Project_XSLT_Output.html>. 2020. 
+
 You should then add some explanation, either on the reading view page or the main page (somewhere on the site) about your team's relationship to the Howard University material you worked with. You should certainly cite them, but you should not be advertising *their* citation information as your own. Does that make sense?
 
 The main page really should tell us more about how you got involved with the AJC materials and make a connection to Dr. Shirley Moody-Turner at Penn State, University Park. It might help to include a little blurb something like what i used in my first TEI assignment working with the AJC materials for our class: 
