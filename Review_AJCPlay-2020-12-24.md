@@ -20,7 +20,7 @@ You should then add some explanation, either on the reading view page or the mai
 
 The main page really should tell us more about how you got involved with the AJC materials and make a connection to Dr. Shirley Moody-Turner at Penn State, University Park. It might help to include a little blurb something like what i used in my first TEI assignment working with the AJC materials for our class: 
 ```
-We will be working with some photofacsimiles of manuscripts digitally curated by Dr. Shirley Moody-Turner
+We worked with photofacsimiles of manuscripts digitally curated by Dr. Shirley Moody-Turner
 from Penn State University for the Digital Howard’s Anna Julia Cooper collection. 
 ```
 Your team was basically *continuing* work with this material that Dr. Moody-Turner and her students were curating as image files. And you all did some serious scholarly work as editors of this material, so that it is text-searchable and more readable than before in a web-ready format. (Don’t sell yourselves short—that is serious work that you have contributed to the Worldwide Web!)
