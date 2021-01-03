@@ -8,12 +8,16 @@ body {
 	line-height: 1.88889;
 	color: #555753; 
 	margin-left: 5em; 
+	margin-right: 5em;
 
 	}
 p { 
 	margin-top: 0; 
 	text-align: justify;
-	font-size: 13px;
+	font-size: 15px;
+	}
+em{
+	font-size: 15px;
 	}
 h1 { 
 	font: italic normal 1.4em georgia, sans-serif;
